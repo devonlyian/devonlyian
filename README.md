@@ -8,26 +8,40 @@ always looking for dreams and happiness. ✨
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-JPA-brightgreen"/>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-navy?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white"/>&nbsp
-  
-  <br>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <b>Backend</b><br>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square"/>&nbsp
+  <br><br>
+  <b>Database</b><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>&nbsp
+  <br><br>
+  <b>DevOps</b><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/>&nbsp
+  <br><br>
+  <b>AI</b><br>
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Codex_CLI-412991?style=flat-square&logo=openai&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=flat-square&logo=google&logoColor=white"/>&nbsp
+  <br><br>
+  <b>Others</b><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>&nbsp
 </p>
 
 <h3 align="center">•••</h3>
 
 <p align="center">
-  <a href="https://velog.io/@kormeian"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kormeian"/></a>
-  
+  <a href="https://ianonly.dev"><img src="https://img.shields.io/badge/Portfolio-ianonly.dev-4D96FF?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=4D96FF&height=150&section=footer)
